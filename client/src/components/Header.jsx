@@ -15,7 +15,7 @@ function Header() {
           <input
             type="text"
             placeholder="Search..."
-            className="bg-transparent outline-none w-24 sm:64"
+            className="bg-transparent outline-none  sm:64"
           />
           <FaSearch className="text-slate-500 cursor-pointer" />
         </form>
